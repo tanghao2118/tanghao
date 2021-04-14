@@ -5,11 +5,9 @@
 
 >Talk is cheap,show me the code
 
-![picture]
-(girl.jpg)
+![picture](girl.jpg)
 
-![Markdownlogo]
-(http://markdown-here.com/image/icon256.png)
+![logo](https://p.ananas.chaoxing.com/star3/270_160c/78f78be50c71105d77f0d50039794235.jpg)
 
 * Item1
 * Item2
