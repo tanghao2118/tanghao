@@ -7,7 +7,7 @@
 
 ![picture](girl.jpg)
 
-![logo](https://p.ananas.chaoxing.com/star3/270_160c/78f78be50c71105d77f0d50039794235.jpg)
+![logo](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
 
 * Item1
 * Item2
