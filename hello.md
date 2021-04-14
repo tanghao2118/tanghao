@@ -7,7 +7,7 @@
 
 ![picture](girl.jpg)
 
-![logo]https://github.com/tanghao2118/tanghao/raw/master/girl.jpg)
+![logo](https://github.com/tanghao2118/tanghao/raw/master/girl.jpg)
 
 * Item1
 * Item2
